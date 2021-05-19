@@ -1,0 +1,42 @@
+[09-Feb-2021 15:36:10 UTC] PHP Notice:  Undefined variable: companyDetail in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/include/header.php on line 13
+[09-Feb-2021 15:36:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/include/header.php on line 13
+[09-Feb-2021 15:36:10 UTC] PHP Notice:  Undefined variable: baseImgUrl in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/include/header.php on line 13
+[09-Feb-2021 15:36:10 UTC] PHP Notice:  Undefined variable: categoryControllerShow in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/include/header.php on line 45
+[09-Feb-2021 15:36:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/include/header.php on line 45
+[09-Feb-2021 15:36:10 UTC] PHP Notice:  Undefined variable: companyDetail in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/include/header.php on line 475
+[09-Feb-2021 15:36:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/include/header.php on line 475
+[09-Feb-2021 15:36:10 UTC] PHP Notice:  Undefined variable: categoryControllerShow in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/include/menu.php on line 30
+[09-Feb-2021 15:36:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/include/menu.php on line 30
+[09-Feb-2021 15:36:10 UTC] PHP Notice:  Undefined variable: categoryControllerShow in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/include/menu.php on line 256
+[09-Feb-2021 15:36:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/include/menu.php on line 256
+[09-Feb-2021 15:51:05 UTC] PHP Warning:  include(../include/top-header.php): failed to open stream: No such file or directory in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/controller/addCartController.php on line 5
+[09-Feb-2021 15:51:05 UTC] PHP Warning:  include(): Failed opening '../include/top-header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/controller/addCartController.php on line 5
+[09-Feb-2021 15:51:05 UTC] PHP Notice:  Undefined variable: con in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/delet.php on line 9
+[09-Feb-2021 15:51:05 UTC] PHP Notice:  Undefined variable: s_uniqueid in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/delet.php on line 9
+[09-Feb-2021 15:51:05 UTC] PHP Notice:  Undefined index: id in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/delet.php on line 9
+[09-Feb-2021 15:51:05 UTC] PHP Notice:  Undefined variable: cust_uniq in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/delet.php on line 9
+[09-Feb-2021 15:51:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/controller/addCartController.php on line 206
+[09-Feb-2021 15:55:52 UTC] PHP Warning:  include(../include/top-header.php): failed to open stream: No such file or directory in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/controller/addCartController.php on line 5
+[09-Feb-2021 15:55:52 UTC] PHP Warning:  include(): Failed opening '../include/top-header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/controller/addCartController.php on line 5
+[09-Feb-2021 15:55:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method addCart::AllItem() in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/delet.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/delet.php on line 13
+[09-Feb-2021 15:55:53 UTC] PHP Warning:  include(../include/top-header.php): failed to open stream: No such file or directory in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/controller/addCartController.php on line 5
+[09-Feb-2021 15:55:53 UTC] PHP Warning:  include(): Failed opening '../include/top-header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/controller/addCartController.php on line 5
+[09-Feb-2021 15:55:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method addCart::AllItem() in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/delet.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/delet.php on line 13
+[09-Feb-2021 15:55:54 UTC] PHP Warning:  include(../include/top-header.php): failed to open stream: No such file or directory in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/controller/addCartController.php on line 5
+[09-Feb-2021 15:55:54 UTC] PHP Warning:  include(): Failed opening '../include/top-header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/controller/addCartController.php on line 5
+[09-Feb-2021 15:55:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method addCart::AllItem() in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/delet.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/delet.php on line 13
+[09-Feb-2021 15:55:55 UTC] PHP Fatal error:  Cannot redeclare addCart::cartAllItem() in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/controller/addCartController.php on line 425
+[09-Feb-2021 15:55:56 UTC] PHP Fatal error:  Cannot redeclare addCart::cartAllItem() in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/controller/addCartController.php on line 425
+[09-Feb-2021 16:36:51 UTC] PHP Parse error:  syntax error, unexpected '$addCartObj' (T_VARIABLE) in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/delet.php on line 13
+[09-Feb-2021 16:36:54 UTC] PHP Parse error:  syntax error, unexpected '$addCartObj' (T_VARIABLE) in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/delet.php on line 13
+[09-Feb-2021 16:36:55 UTC] PHP Parse error:  syntax error, unexpected '$addCartObj' (T_VARIABLE) in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/delet.php on line 13
+[09-Feb-2021 16:36:56 UTC] PHP Parse error:  syntax error, unexpected '$addCartObj' (T_VARIABLE) in /home/tflfjvbx9g6z/public_html/oceonicitsolution.com/ecommerce/delet.php on line 13
