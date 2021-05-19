@@ -2,28 +2,29 @@
 
 Everything is done according to the assignment.
 
-Live demo link: http://vaishalibeauti.tech/ 
+Live demo link: http://vaishalibeauti.tech/
 
-The site fiirst validates whether  the email is already registred or not.
+The site first validates whether the email is already registered or not.
 
-If not registred then the site is redirected to another page to validate the OTP which comes in the mail.
+If not registered then the site is redirected to another page to validate the OTP which comes in the mail.
 
-If the OTP entred is correct ,the site redirects to another ppage where you will see the registred email and the comic being sent in every 5 minutes.
+If the OTP entered is correct, the site redirects to another page where you will see the registered email and the comic being sent every 5 minutes.
 
-To Unsubscribe visit the same demo link and type the email address you want to Unsubscribe ,then tap on Unsubscribe.
+To Unsubscribe visit the same demo link and type the email address you want to Unsubscribe, then tap on Unsubscribe.
+
+*****************************************************************************************************************************
 
 
-
-Important functions done by the RegisterController.php file
+Important functions are done by the RegisterController.php file
 
 Checking email in database existed or not
 
 Inserting email in database
 
-Generating OTP  and sending in mail 
+Generating OTP and sending in a mail
 
-Validating the otp
+Validating the OTP
 
-Unscribe function 
+Unsubscribe function
 
-Json decode int array form
+JSON decode int array form
