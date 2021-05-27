@@ -2,7 +2,7 @@
 
 Everything is done according to the assignment.
 
-Live demo link: http://vaishalibeauti.tech/
+
 
 The site first validates whether the email is already registered or not.
 
